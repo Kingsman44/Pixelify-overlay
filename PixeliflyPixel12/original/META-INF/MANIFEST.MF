@@ -1,0 +1,131 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA-256-Digest: OY57TX/G+CKududB6GhaeeMK6IzW9ZuSA7jqHRafa2o=
+
+Name: res/color/config_progress_background_tint.xml
+SHA-256-Digest: 4sIPleaW/RdMzXyUSm2sxaPCUdLsk9J1lfpEiu1XwuQ=
+
+Name: res/drawable-night/ic_doc_apk.xml
+SHA-256-Digest: p/NUkC22Ttipu0/zgFmya57CP3ILNrMMfElnpQ9V5aY=
+
+Name: res/drawable-night/ic_doc_audio.xml
+SHA-256-Digest: JgBoPqny6adC6FQpTVgRkN8yImN3DWGbH1qR8h1S3Ts=
+
+Name: res/drawable-night/ic_doc_certificate.xml
+SHA-256-Digest: 7ysrhpwz98VpHLDRFuMqz1peYUXxP37Zuh6LohEKNZ4=
+
+Name: res/drawable-night/ic_doc_codes.xml
+SHA-256-Digest: oZ3b+CyvJ+LuO/3vnF9oQZIp0t7pdvTDH/FAqvmGeNs=
+
+Name: res/drawable-night/ic_doc_compressed.xml
+SHA-256-Digest: mKZo+Jp6nkf0dDavfGP1GM7vdsAB49dzBlc8w47Gmwk=
+
+Name: res/drawable-night/ic_doc_contact.xml
+SHA-256-Digest: TA/Gu0Has0W9dD3eSGw5w/GlCIoq6J9A2aIIXkWuMi0=
+
+Name: res/drawable-night/ic_doc_document.xml
+SHA-256-Digest: fMozMr4cJYSMFvkJ1SSGzgRJr8NC6JqR6fq6mSvyprA=
+
+Name: res/drawable-night/ic_doc_event.xml
+SHA-256-Digest: C3psajHJl7J+iLzQBBiAr9/oZv6hO0/s1ejqPKcEeww=
+
+Name: res/drawable-night/ic_doc_excel.xml
+SHA-256-Digest: 9OxLMBfg2TexCNc1NZB/uOni2P4oSalcs4d3lbTizf4=
+
+Name: res/drawable-night/ic_doc_folder.xml
+SHA-256-Digest: iaYcpzNZk8RoRwldW6ONvO7z1clCLW/KyEyAokiAOG4=
+
+Name: res/drawable-night/ic_doc_font.xml
+SHA-256-Digest: 2RMpX2Sh4M8L1Nv2HJKUlpbRWMwIDZT1xcAw+7tOOuo=
+
+Name: res/drawable-night/ic_doc_generic.xml
+SHA-256-Digest: fU4fe1OHC3A5htERBlDIo1S5LgWlI+K4dwYIkJYmgrA=
+
+Name: res/drawable-night/ic_doc_image.xml
+SHA-256-Digest: 1En/Ue6oznCvL0v87Avwaj4Av6gaWt6Mg6OxDpDwDxM=
+
+Name: res/drawable-night/ic_doc_pdf.xml
+SHA-256-Digest: 1hZNGINRnPprVQDt+rJ3rmswaRaUzjwLCUIVsKA3fJY=
+
+Name: res/drawable-night/ic_doc_powerpoint.xml
+SHA-256-Digest: e04h1q0I6TmnYYW0a608ZyReWU3ZvgNFrkM3lmKU7fc=
+
+Name: res/drawable-night/ic_doc_presentation.xml
+SHA-256-Digest: z6rgjhHcYrosm09T3WabWniYJI/ehl5CBzZMluDQVBc=
+
+Name: res/drawable-night/ic_doc_spreadsheet.xml
+SHA-256-Digest: vuYH/GbvRYYyEg7oPh6LI77Kuf1u5lHvEH9Xsh4nOdI=
+
+Name: res/drawable-night/ic_doc_text.xml
+SHA-256-Digest: zBgmdRVuJX6h3yMk5Rt/P7k0Kfp4NGmpArhC/ZykYhw=
+
+Name: res/drawable-night/ic_doc_video.xml
+SHA-256-Digest: K2PhEtSqWriHMZ0r1l2OLeTcxdUKnFuoIqnL0cIWATs=
+
+Name: res/drawable-night/ic_doc_word.xml
+SHA-256-Digest: u+/0eO1sRWAug+ZAsZ8aWk/URqQec4qlOlBbdjXCmc4=
+
+Name: res/drawable/ic_doc_apk.xml
+SHA-256-Digest: 7X8mHW00K0CPYa6cDpxeLeNF/LvUbOzzKxcfgBDiH34=
+
+Name: res/drawable/ic_doc_audio.xml
+SHA-256-Digest: hfQ/Y84jY4fdsU6U1H8aN3mAnHofHUC+SzTJcpLpwmQ=
+
+Name: res/drawable/ic_doc_certificate.xml
+SHA-256-Digest: ndGG0tSBpkuNzvLorGvjcI7OLPuJcO0cuQ06Eif7De4=
+
+Name: res/drawable/ic_doc_codes.xml
+SHA-256-Digest: WL8cpRoTiSpE6VnI6uu4U2zh1aKNhmxsp8A+PoFEifc=
+
+Name: res/drawable/ic_doc_compressed.xml
+SHA-256-Digest: mPp9cqRBif96vKI38WHsaNUZg4AZKMePMLje25upKyA=
+
+Name: res/drawable/ic_doc_contact.xml
+SHA-256-Digest: JB3iTjMMzWFj7d24dukAKtIHk7l1QsEgYwTCJIhjbg0=
+
+Name: res/drawable/ic_doc_document.xml
+SHA-256-Digest: fMozMr4cJYSMFvkJ1SSGzgRJr8NC6JqR6fq6mSvyprA=
+
+Name: res/drawable/ic_doc_event.xml
+SHA-256-Digest: 6Yt4v4DbVx/lFQiBNvye83Ew0HfkUkXz0XlK3SSnu1k=
+
+Name: res/drawable/ic_doc_excel.xml
+SHA-256-Digest: cncaKuwQjhdr5Ea7sLY4gKt87c1BSS45QOcbVJAW7Ks=
+
+Name: res/drawable/ic_doc_folder.xml
+SHA-256-Digest: R5AE2FNbuKIcy5i9F8CXJ3/VLz3uWEXGl8x9Ecr+fLw=
+
+Name: res/drawable/ic_doc_font.xml
+SHA-256-Digest: pEiPVPS9fKOTCsF+Tbf9YBqDgavptJp4R+cNWlpdE/U=
+
+Name: res/drawable/ic_doc_generic.xml
+SHA-256-Digest: GT+rjDEbG2tmMbxN3vrtrx2gO3asHy/rBdOoLMXX4DI=
+
+Name: res/drawable/ic_doc_image.xml
+SHA-256-Digest: B8EDCS5WG3vtt2Hh9tfva81U0gTYYP9hPXJgNKk5Jns=
+
+Name: res/drawable/ic_doc_pdf.xml
+SHA-256-Digest: DyLp+N+N004q0/do5gYmAn1rqHxu954y3WarpX4b6Wo=
+
+Name: res/drawable/ic_doc_powerpoint.xml
+SHA-256-Digest: Wm4qfaxnlOMmnrzlXAPK7jv3II7KAAoUnexZZyTfExM=
+
+Name: res/drawable/ic_doc_presentation.xml
+SHA-256-Digest: xAHIsm9WjW7oXIMwvQ75QXJYDaLxGi+5oxiyENOgX6g=
+
+Name: res/drawable/ic_doc_spreadsheet.xml
+SHA-256-Digest: a2eu2Eznf2kFoPbLdH/ySYHO/SvQ0dkgE18NkgC+8t4=
+
+Name: res/drawable/ic_doc_text.xml
+SHA-256-Digest: 6iMl7fr82KmkqU8iilaOa8FHEuBJ9+xSu8S4B10FoCk=
+
+Name: res/drawable/ic_doc_video.xml
+SHA-256-Digest: g/i5SMeE2gws4rwEu5qbo6jqzbpotUhqpAM5hc1LcN4=
+
+Name: res/drawable/ic_doc_word.xml
+SHA-256-Digest: 6uSaO/3R0JtEo6H882DZvbDmvW8pchOkh5+r/bmtCOg=
+
+Name: resources.arsc
+SHA-256-Digest: LUUP3Je+yRkXy2YhMRzln9y8MNvAtNp1TFBsK191Jg8=
+

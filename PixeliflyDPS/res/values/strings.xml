@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_defaultAttentionService">com.google.android.as/com.google.android.apps.miphone.aiai.attention.service.AiAiAttentionService</string>
+    <string name="config_defaultSystemCaptionsManagerService">com.google.android.as/com.google.android.apps.miphone.aiai.captions.SystemCaptionsManagerService</string>
+    <string name="config_defaultSystemCaptionsService">com.google.android.as/com.google.android.apps.miphone.aiai.captions.CaptionsService</string>
+    <!-- <string name="config_defaultTextClassifierPackage">com.android.textclassifier</string> -->
+    <string name="config_defaultAppPredictionService">com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiPredictionService</string>
+    <string name="config_defaultContentSuggestionsService">com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiContentSuggestionsService</string>
+    <!-- <string name="config_systemAmbientAudioIntelligence">com.google.android.as</string> -->
+    <string name="config_systemAudioIntelligence">com.google.android.as</string>
+    <string name="config_systemNotificationIntelligence">com.google.android.as</string>
+    <!-- <string name="config_systemTextIntelligence">com.google.android.as</string> -->
+    <string name="config_systemUiIntelligence">com.google.android.as</string>
+    <!-- <string name="config_systemVisualIntelligence">com.google.android.as</string> -->
+    <string name="config_defaultRotationResolverService">com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiRotationResolverService</string>
+    <string name="config_defaultAugmentedAutofillService">com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiAugmentedAutofillService</string>
+    <string name="config_defaultSearchUiService">com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiSearchUiService</string>
+    <string name="config_defaultOnDeviceSpeechRecognitionService">com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiSpeechRecognitionService</string>
+    <string name="config_defaultTranslationService">com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiTranslationService</string>
+    <string name="config_defaultSmartspaceService">com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiSmartspaceService</string>
+    <string name="config_defaultAssistantAccessComponent">com.google.android.as/com.google.android.apps.miphone.aiai.common.notification.service.AiAiNotificationAssistantService</string>
+    <string name="config_defaultContentCaptureService">com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiContentCaptureService</string>
+</resources>

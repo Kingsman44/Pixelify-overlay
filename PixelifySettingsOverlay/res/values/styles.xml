@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SuggestionCardIcon">
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:layout_marginStart">12.0dip</item>
+        <item name="android:layout_marginEnd">12.0dip</item>
+        <item name="android:layout_alignParentStart">false</item>
+    </style>
+    <style name="SuggestionCardText">
+        <item name="android:textAlignment">center</item>
+    </style>
+</resources>

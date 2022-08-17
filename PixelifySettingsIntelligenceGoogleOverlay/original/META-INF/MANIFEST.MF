@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA-256-Digest: FjIqDnVU+rq8e79Ieb3LvwLil3+RsBW87zwZOspXVd8=
+
+Name: res/raw/lottie_reverse_charging.json
+SHA-256-Digest: Nqe583+r7qefLhgnf4xXrfmit6qExihjpExdp7AOAVw=
+
+Name: resources.arsc
+SHA-256-Digest: c9S4KY6GKN066ygPxel8KrQ0mtb/l4xDEKObUVikP0E=
+
+Name: stamp-cert-sha256
+SHA-256-Digest: HZwqAqk4Fv9ceuZPmq0Cwj3kncUUYg2xp61iTSqDZ5w=
+

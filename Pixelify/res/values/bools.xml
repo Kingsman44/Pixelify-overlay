@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- <bool name="config_dozeAlwaysOnDisplayAvailable">true</bool> -->
+    <bool name="config_show_adaptive_connectivity">true</bool>
+    <bool name="config_supportLongPressPowerWhenNonInteractive">true</bool>
+    <bool name="config_swipe_up_gesture_setting_available">true</bool>
+    <bool name="config_supportsCamToggle">true</bool>
+    <bool name="config_supportsMicToggle">true</bool>
+    <bool name="config_supportsRoundedCornersOnWindows">true</bool>
+</resources>

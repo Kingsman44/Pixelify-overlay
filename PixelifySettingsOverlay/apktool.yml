@@ -1,0 +1,25 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: PixelifySettingsOverlay.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- png
+- mp4
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '28'
+  targetSdkVersion: '33'
+sharedLibrary: false
+sparseResources: true
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.5.0
+versionInfo:
+  versionCode: '30'
+  versionName: '11'

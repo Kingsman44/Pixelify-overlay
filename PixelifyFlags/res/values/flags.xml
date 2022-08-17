@@ -1,0 +1,8 @@
+<resources>
+    <bool name="are_flags_overrideable">true</bool>
+    <bool name="flag_conversations">true</bool>
+    <bool name="flag_lockscreen_animations">true</bool>
+    <bool name="flag_new_unlock_swipe_animation">true</bool>
+    <bool name="flag_smartspace_shared_element_transition">true</bool>
+    <bool name="flag_smartspace">true</bool>
+</resources>

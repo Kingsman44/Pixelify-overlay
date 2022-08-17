@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_settingsintelligence_package_name" translatable="false">com.google.android.settings.intelligence</string>
+    <string name="config_settingsintelligence_log_action" translatable="false">com.google.android.settings.intelligence.LOG_BRIDGE</string>
+    <string name="config_batterySaverScheduleProvider">com.google.android.apps.turbo</string>
+</resources>

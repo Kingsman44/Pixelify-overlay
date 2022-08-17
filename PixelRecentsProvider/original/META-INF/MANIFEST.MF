@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: AndroidManifest.xml
+SHA1-Digest: 2zD3guN395qAXAja+bjtRr4nYqc=
+
+Name: resources.arsc
+SHA1-Digest: m6ICk5HyyImq9nAwLp9gKE3tU30=
+

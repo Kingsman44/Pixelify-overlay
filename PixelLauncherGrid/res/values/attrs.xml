@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="iconTextSize" format="float" />
+    <attr name="iconImageSize" format="float" />
+    <attr name="minCellHeightDps" format="float" />
+    <attr name="minCellWidthDps" format="float" />
+    <attr name="canBeDefault" format="boolean" />
+    <attr name="borderSpaceDps" format="float" />
+    <attr name="allAppsIconTextSize" format="float" />
+    <attr name="allAppsIconSize" format="float" />
+    <attr name="allAppsCellSpacingDps" format="float" />
+    <attr name="numFolderColumns" format="integer" />
+    <attr name="numFolderRows" format="integer" />
+    <attr name="numHotseatIcons" format="integer" />
+    <attr name="numRows" format="integer" />
+    <attr name="numAllAppsColumns" format="integer" />
+    <attr name="numColumns" format="integer" />
+    <attr name="numExtendedAllAppsColumns" format="integer" />
+    <attr name="numExtendedHotseatIcons" format="integer" />
+    <attr name="name" format="string" />
+    <attr name="deviceCategory" format="integer">
+        <flag name="multi_display" value="0x00000004" />
+        <flag name="phone" value="0x00000001" />
+        <flag name="tablet" value="0x00000002" />
+    </attr>
+    <attr name="defaultLayoutId" format="reference" />
+    <attr name="dbFile" format="string" />
+    <attr name="twoPanelLandscapeBorderSpaceDps" format="float" />
+    <attr name="twoPanelLandscapeBorderSpaceHorizontalDps" format="float" />
+    <attr name="twoPanelLandscapeBorderSpaceVerticalDps" format="float" />
+    <attr name="twoPanelLandscapeHorizontalMargin" format="float" />
+    <attr name="twoPanelLandscapeIconSize" format="float" />
+    <attr name="twoPanelLandscapeIconTextSize" format="float" />
+    <attr name="twoPanelLandscapeMinCellHeightDps" format="float" />
+    <attr name="twoPanelLandscapeMinCellWidthDps" format="float" />
+    <attr name="twoPanelPortraitBorderSpaceDps" format="float" />
+    <attr name="twoPanelPortraitBorderSpaceHorizontalDps" format="float" />
+    <attr name="twoPanelPortraitBorderSpaceVerticalDps" format="float" />
+    <attr name="twoPanelPortraitHorizontalMargin" format="float" />
+    <attr name="twoPanelPortraitIconSize" format="float" />
+    <attr name="twoPanelPortraitIconTextSize" format="float" />
+    <attr name="twoPanelPortraitMinCellHeightDps" format="float" />
+    <attr name="twoPanelPortraitMinCellWidthDps" format="float" />
+    <attr name="devicePaddingId" format="reference" />
+    <attr name="minWidthDps" format="float" />
+    <attr name="minHeightDps" format="float" />
+    <attr name="borderSpaceHorizontalDps" format="float" />
+    <attr name="landscapeIconSize" format="float" />
+    <attr name="horizontalMargin" format="float" />
+    <attr name="isScalable" format="boolean" />
+    <attr name="screen" format="string" />
+    <attr name="packageName" format="string" />
+    <attr name="className" format="string" />
+    <attr name="uri" format="string" />
+    <attr name="x" format="string" />
+    <attr name="y" format="string" />
+    <attr name="demoModeLayoutId" format="reference" />
+    <attr name="defaultSplitDisplayLayoutId" format="reference" />
+    <attr name="container" format="string" />
+    <attr name="containerType" format="integer">
+        <enum name="folder" value="2" />
+        <enum name="hotseat" value="1" />
+        <enum name="workspace" value="0" />
+    </attr>
+    <attr name="a" format="float|dimension" />
+    <attr name="b" format="float|dimension" />
+    <attr name="c" format="float|dimension" />
+    <attr name="maxEmptySpace" format="dimension" />
+    <attr name="borderSpaceVerticalDps" format="float" />
+</resources>

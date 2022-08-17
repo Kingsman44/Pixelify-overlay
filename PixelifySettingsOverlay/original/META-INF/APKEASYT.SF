@@ -1,0 +1,35 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA-256-Digest-Manifest: gj+g7o1BdgL7e5nXjvxW1teuDGMX98ZctLlVeJE+i3I=
+X-Android-APK-Signed: 2, 3
+
+Name: AndroidManifest.xml
+SHA-256-Digest: 533RbxxkYLtnjISIXHXgsY1LVcr+nc20VfNSG4T9k9Y=
+
+Name: res/drawable-nodpi/aab_brightness.png
+SHA-256-Digest: Lqw1PUyzfgyBKST4U/bDcbHBbPsvJbMyWtd6KHlRKf8=
+
+Name: res/drawable-nodpi/auto_awesome_battery.png
+SHA-256-Digest: fRP0jaWOgb5QUvyRoJ2SGxqqEaIGRypSgyEcI+ZnDjM=
+
+Name: res/raw-night/game_settings_illustration.json
+SHA-256-Digest: saOqgzSvTpZM+ACfH7Ao+nL/zrzw7Reu4EpkeV0xwuw=
+
+Name: res/raw/aab_brightness.mp4
+SHA-256-Digest: yrccgsveZtJbOWGIhO0kqgcJi3FrIMqEFvMhTGUPpt4=
+
+Name: res/raw/adaptive_sleep.mp4
+SHA-256-Digest: tkC7e8wDHeHjKmqGzecdkwSiRYQR+eVYp+xI9B+Lo4Y=
+
+Name: res/raw/auto_awesome_battery.mp4
+SHA-256-Digest: zBkkB8RF1jcxLl4iysZdmZkeue2w/ZNIbhMJYfHjb7w=
+
+Name: res/raw/game_settings_illustration.json
+SHA-256-Digest: qKwCV9rxYW5zdRkLQnSM0NE9ktwRvZfXclgpSYP1ctI=
+
+Name: res/raw/lottie_one_hand_mode.json
+SHA-256-Digest: OGl/TZ07HU2mV6TYhfITD7FRBq6SKfCtx3p0VO0YOqs=
+
+Name: resources.arsc
+SHA-256-Digest: SG95XQKXCdpZ7p61ZxouQFMhOGyYiVB8COPnTg0bWfk=
+

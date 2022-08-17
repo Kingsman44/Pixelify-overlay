@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_bodyFontFamily">google-sans-text-italic</string>
+    <string name="config_bodyFontFamilyMedium">google-sans-text-medium-italic</string>
+    <string name="config_headlineFontFamily">google-sans-italics</string>
+    <string name="config_headlineFontFamilyMedium">google-sans-italics-medium</string>
+</resources>
